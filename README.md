@@ -1,2 +1,2 @@
-# Aplikacja Magda
-Rzepa
+# Aplikacja
+Magda Rzepa
